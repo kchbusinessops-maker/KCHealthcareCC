@@ -1,0 +1,6 @@
+{
+  "name": "Collection Centre Operations",
+  "description": "Diagnostic franchise SaaS platform with multi-centre onboarding, role-based access control (RBAC) inside collection centres, separate authorized login portals, patient registry, test catalog, billing, prepaid wallet ledger, smart QR/barcode tube tracking, phlebotomy verification, courier dispatch, and Central Reference Laboratory accession test data extraction (CSV, HL7 JSON, Handover Manifest).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
